@@ -91,4 +91,4 @@ const jwtOptions = {
 ```
 
 ### CORS
-`cors` package has been installed. Be aware you need to configure it (it's currently open to whatever address)! https://www.npmjs.com/package/cors 
+`cors` package has been installed. **Watch out you need to configure it (it's currently open to whatever address)!** https://www.npmjs.com/package/cors 
